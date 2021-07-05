@@ -1,4 +1,5 @@
-# QUANTUM INFORMATION AND COMPUTING
+# QUANTUM INFORMATION AND COMPUTING:
+## Reinforcement Learning for Optimal Quantum Control
 ![](https://media.giphy.com/media/Hs7QOaQHyo9qhwmv4h/giphy.gif)
 
 
